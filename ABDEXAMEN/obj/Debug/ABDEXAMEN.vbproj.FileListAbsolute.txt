@@ -1,0 +1,8 @@
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\bin\Debug\ABDEXAMEN.dll
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\bin\Debug\ABDEXAMEN.pdb
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\bin\Debug\ABDEXAMEN.xml
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\obj\Debug\ABDEXAMEN.Resources.resources
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\obj\Debug\ABDEXAMEN.vbproj.GenerateResource.Cache
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\obj\Debug\ABDEXAMEN.dll
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\obj\Debug\ABDEXAMEN.xml
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\ABDEXAMEN\obj\Debug\ABDEXAMEN.pdb

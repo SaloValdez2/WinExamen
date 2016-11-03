@@ -1,0 +1,14 @@
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\WinExamen.exe.config
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\WinExamen.exe
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\WinExamen.pdb
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\WinExamen.xml
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\ABDEXAMEN.dll
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\ABDEXAMEN.pdb
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\bin\Debug\ABDEXAMEN.xml
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.vbprojResolveAssemblyReference.cache
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.FRMCONSULTA.resources
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.Resources.resources
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.vbproj.GenerateResource.Cache
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.exe
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.xml
+C:\Users\Vilca\Desktop\EXAMENGUSTAVO\WinExamen\WinExamen\obj\Debug\WinExamen.pdb

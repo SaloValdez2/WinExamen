@@ -1,0 +1,12 @@
+CREATE PROCEDURE USP_LISTAR_CLIENTE
+@BUSCAR VARCHAR(50)
+AS
+SELECT C.IdCliente,
+(RTRIM(nombre)++RTRIM(apellido))AS NOMBRES,
+C.DNI,TC.descripcion AS TIPO
+FROM CLIENTE C
+INNER JOIN Tipo_cliente TC
+ON C.IdTipo=TC.IdTipo
+WHERE C.apellido LIKE @BUSCAR + '%'
+
+gg
